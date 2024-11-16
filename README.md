@@ -15,11 +15,11 @@ I am Vatsal Gupta, currently a 18-year old Computer Science freshman at Thapar I
 ## Skills
 <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CLion-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width=40> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width=40> 
 
-##
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
 
 ## Top Languages
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Top Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsal-06&repo=ObjectDetection)](https://github.com/vatsal-06/ObjectDetection)

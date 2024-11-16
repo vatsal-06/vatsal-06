@@ -3,6 +3,7 @@
 ## My Name is Vatsal Gupta
 I am Vatsal Gupta, currently a 18-year old Computer Science freshman at Thapar Institute of Engineering and Technology. I believe in using technology to solve real-world problems. I have strong programming skills in Python, Java, and I'm proficient in data structures and algorithms. I'm passionate about artificial intelligence and machine learning. In my free time, I enjoy participating in hackathons and coding challenges. I am also fond of aviation and avionics. 
 
+
 * 🌏 I'm based in India
 * 🔭 I'm Currently working on
 * 🪴 I'm currently learning Flutter

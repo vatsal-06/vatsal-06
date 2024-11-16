@@ -5,7 +5,7 @@ I am Vatsal Gupta, currently a 18-year old Computer Science freshman at Thapar I
 
 
 * 🌏 I'm based in India
-* 🔭 I'm Currently working on
+* 🔭 I'm Currently working on Cloning
 * 🪴 I'm currently learning Flutter
 * 🙋🏻‍♂️ I'm looking to collaborate
 

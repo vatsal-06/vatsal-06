@@ -23,6 +23,6 @@ I am Vatsal Gupta, currently an 18-year old Computer Science freshman at Thapar 
 
 ## Top Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsal-06&repo=ObjectDetection)](https://github.com/vatsal-06/ObjectDetection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsal-06&repo=WeatherApp)](https://github.com/vatsal-06/StockPrediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsal-06&repo=stock-prediction-flutter)](https://github.com/vatsal-06/stock-prediction-flutter)
 
 <img src="https://komarev.com/ghpvc/?username=vatsal-06&color=brightgreen" alt="watching_count"/>  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvatsal-06&longCache=true"/>

@@ -19,7 +19,7 @@ I am Vatsal Gupta, currently an 18-year old Computer Science freshman at Thapar 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> 
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal-06&hide=cmake,jupyter%20notebook&theme=algolia)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-06&show_icons=true&locale=en&layout=compact" alt="vatsal-06" /></p>
 
 ## Top Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vatsal-06&repo=ObjectDetection)](https://github.com/vatsal-06/ObjectDetection)

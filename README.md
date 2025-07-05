@@ -1,6 +1,7 @@
 # Hi there! <img src= "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width=50 height=50>
 
 ## My Name is Vatsal Gupta
+<img src="https://komarev.com/ghpvc/?username=vatsal-06&color=brightgreen" alt="watching_count"/>  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvatsal-06&longCache=true"/>
 I am Vatsal Gupta, currently an 18-year old Computer Science freshman at Thapar Institute of Engineering and Technology. I believe in using technology to solve real-world problems. I have strong programming skills in Python, Java, Dart & Flutter and I'm proficient in data structures and algorithms. I'm passionate about artificial intelligence and machine learning. In my free time, I enjoy participating in hackathons and coding challenges. I am also fond of aviation and avionics. 
 
 
@@ -20,5 +21,3 @@ I am Vatsal Gupta, currently an 18-year old Computer Science freshman at Thapar 
 
 ## Top Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-06&show_icons=true&locale=en&layout=compact" alt="vatsal-06" /></p>
-
-<img src="https://komarev.com/ghpvc/?username=vatsal-06&color=brightgreen" alt="watching_count"/>  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvatsal-06&longCache=true"/>

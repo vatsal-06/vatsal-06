@@ -85,11 +85,10 @@ I'm passionate about **AI/ML, backend systems, aviation, and avionics**.
 
 ---
 
-## 🌊 Animated Wave Footer
+</br>
 
-> GitHub strips CSS + position:fixed from READMEs,  
-> so the animation is preserved but simplified to ensure it renders correctly.
+<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
+<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg">
-</p>
+<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
+<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">

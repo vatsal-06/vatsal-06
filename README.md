@@ -84,11 +84,8 @@ I'm passionate about **AI/ML, backend systems, aviation, and avionics**.
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-</br>
+![GitHub Snake Light](https://raw.githubusercontent.com/vatsal-06/vatsal-06/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/vatsal-06/vatsal-06/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
-
-<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
-<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">

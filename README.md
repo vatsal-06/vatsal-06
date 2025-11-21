@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dvatsal-06&longCache=true" />
 </p>
 
-I am Vatsal Gupta, an 18-year-old Computer Science freshman at **Thapar Institute of Engineering and Technology**.  
+I am Vatsal Gupta, an 19-year-old Computer Science sophomore at **Thapar Institute of Engineering and Technology**.  
 I love building software that solves real-world problems.
 
 I'm skilled in **Python, Java, Dart, Flutter**, and strong in **DSA**.  

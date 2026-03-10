@@ -16,8 +16,8 @@ I'm passionate about **AI/ML, backend systems, aviation, and avionics**.
 ---
 
 ### 🌏 I'm based in India  
-### 🔭 Currently working on **WEFT**  
-### 🪴 Learning **Flutter**  
+### 🔭 Currently working on **NeuroVoice**  
+### 🪴 Learning **AI/ML**  
 ### 🙋🏻‍♂️ Open to collaborations
 
 ---
